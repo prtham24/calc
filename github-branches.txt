@@ -1,0 +1,7 @@
+$ git branch -a
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
+$ git branch -vv
+* main 2b0753f [origin/main] Create forked-repo
